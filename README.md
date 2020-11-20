@@ -4,6 +4,5 @@
 #### 현재 React, GraphQL, Apollo, Typescript에 관심을 두고 공부 중에 있습니다.      
 #### 코드의 품질 향상을 위해 개선하고, 노력하는 개발자가 되고 싶습니다.    
 <br>
-<br>
 
 ![YuuJining's github stats](https://github-readme-stats.vercel.app/api?username=YuuJining&show_icons=true)
